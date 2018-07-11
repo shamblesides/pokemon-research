@@ -1,0 +1,179 @@
+[listed to lv 15]
+---
+ TM34	[10] BIDE
+ TM12	[25] WATER GUN
+ TM01	[20] MEGA PUNCH
+ TM19	[20] SEISMIC TOSS
+ TM11	[20] BUBBLEBEAM
+ TM28	[10] DIG
+
+---
+
+bulbasaur
+ ----	[35] TACKLE
+ ----	[40] GROWL
+ Lv07	[10] LEECH SEED
+ Lv13	[10] VINE WHIP
+ TM34	[10] BIDE
+
+charmander
+ ----	[30] SCRATCH
+ ----	[40] GROWL
+ Lv09	[25] EMBER
+ Lv15	[30] LEER
+ TM34	[10] BIDE
+ TM01	[20] MEGA PUNCH
+ TM19	[20] SEISMIC TOSS
+ TM28	[10] DIG
+
+squirtle
+ ----	[35] TACKLE
+ ----	[30] TAIL WHIP
+ Lv08	[30] BUBBLE
+ Lv15	[25] WATER GUN
+ TM34	[10] BIDE
+ TM12	[25] WATER GUN
+ TM01	[20] MEGA PUNCH
+ TM19	[20] SEISMIC TOSS
+ TM11	[20] BUBBLEBEAM
+ TM28	[10] DIG
+
+pidgey
+ ----	[35] GUST
+ Lv05	[15] SAND-ATTACK
+ Lv12	[30] QUICK ATTACK
+ TM34	[10] BIDE
+
+ratatta
+ ----	[35] TACKLE
+ ----	[40] TAIL WHIP
+ Lv07	[30] QUICK ATTACK
+ Lv14	[15] HYPER FANG
+ TM34	[10] BIDE
+ TM12	[25] WATER GUN
+ TM11	[20] BUBBLEBEAM
+ TM28	[10] DIG
+
+nidoran girl
+ ----	[30] LEER
+ ----	[35] TACKLE
+ Lv08	[30] SCRATCH
+ Lv14	[35] POISON STING
+ TM34	[10] BIDE
+
+nidoran boy
+ ----	[30] LEER
+ ----	[35] TACKLE
+ Lv08	[25] HORN ATTACK
+ Lv14	[35] POISON STING
+ TM34	[10] BIDE
+
+spearow
+ ----	[35] PECK
+ ----	[40] GROWL
+ Lv09	[30] LEER
+ Lv15	[20] FURY ATTACK
+ TM34	[10] BIDE
+
+weedle
+ ----	[35] POISON STING
+ ----	[40] STRING SHOT
+ Lv07	 evolve to kakuna
+ ----	[30] HARDEN
+ Lv10	 evolve to beedrill
+ Lv12	[20] FURY ATTACK
+ TM34	[10] BIDE
+
+caterpie
+ ----	[35] TACKLE
+ ----	[40] STRING SHOT
+ Lv07	 evolve to metapod
+ ----	[30] HARDEN
+ Lv10	 evolve to butterfree
+ Lv12	[25] CONFUSION
+ Lv15	[35] POISONPOWDER
+ TM34	[10] BIDE
+
+pikachu
+ ----	[30] THUNDERSHOCK
+ ----	[40] GROWL
+ Lv09	[20] THUNDER WAVE
+ TM34	[10] BIDE
+ TM01	[20] MEGA PUNCH
+ TM19	[20] SEISMIC TOSS
+
+jigglypuff
+ ----	[15] SING
+ Lv09	[35] POUND
+ Lv14	[20] DISABLE
+ TM34	[10] BIDE
+ TM12	[25] WATER GUN
+ TM19	[20] SEISMIC TOSS
+ TM11	[20] BUBBLEBEAM
+ [moon stone] evolve to wigglytuff
+
+magikarp
+ ----	[40] SPLASH
+ Lv15	[35] TACKLE
+
+zubat
+ ----	[15] LEECH LIFE
+ Lv10	[20] SUPERSONIC
+ Lv15	[25] BITE
+ TM34	[10] BIDE
+
+geodude
+ ----	[35] TACKLE
+ Lv11	[40] DEFENSE CURL
+ TM34	[10] BIDE
+ TM01	[20] MEGA PUNCH
+ TM19	[20] SEISMIC TOSS
+ TM28	[10] DIG
+
+paras
+ ----	[30] SCRATCH
+ Lv13	[30] STUN SPORE
+ TM34	[10] BIDE
+ TM28	[10] DIG
+
+clefairy
+ ----	[35] POUND
+ ----	[40] GROWL
+ Lv13	[15] SING
+ TM34	[10] BIDE
+ TM12	[25] WATER GUN
+ TM19	[20] SEISMIC TOSS
+ TM11	[20] BUBBLEBEAM
+ [moon stone] evolve to clefable
+
+ekans
+ ----	[20] WRAP
+ ----	[30] LEER
+ Lv10	[35] POISON STING
+ TM34	[10] BIDE
+ TM28	[10] DIG
+
+sandshrew
+ ----	[30] SCRATCH
+ Lv10	[15] SAND-ATTACK
+ TM34	[10] BIDE
+ TM19	[20] SEISMIC TOSS
+ TM28	[10] DIG
+
+oddish
+ ----	[20] ABSORB
+ Lv15	[35] POISONPOWDER
+ TM34	[10] BIDE
+
+bellsprout
+ ----	[10] VINE WHIP
+ ----	[40] GROWTH
+ Lv13	[20] WRAP
+ Lv15	[35] POISONPOWDER
+ TM34	[10] BIDE
+
+abra
+ ----	[20] TELEPORT
+ TM34	[10] BIDE
+ TM01	[20] MEGA PUNCH
+ TM19	[20] SEISMIC TOSS

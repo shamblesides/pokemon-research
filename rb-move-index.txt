@@ -1,0 +1,72 @@
+== STANDARD ==
+tackle
+scratch
+*bite
+gust
+*poison sting
+*quick attack
+pound
+doubleslap
+wrap
+*fury attack
+horn attack
+*double kick
+*rage
+*hyper fang
+*slam
+*slash
++bide
++mega punch
+
+
+== SPECIAL ==
+vine whip
+ember
+bubble
+water gun
+thundershock
+absorb
+confusion
+twineedle
+karate chop
+rock throw
+acid
++seismic toss
++bubblebeam
++dig
+
+
+== STAT DOWN ==
+growl
+tail whip
+leer
+sand-attack
+string shot
+
+
+== STAT UP ==
+harden
+defense curl
+focus energy
+double team
+minimize
+
+
+== INDUCING ==
+thunder wave
+poisonpowder
+stun spore
+sleep powder
+supersonic
+sing
+confuse ray
+
+
+== PECULIAR ==
+leech seed
+whirlwind
+mirror move
+disable
+teleport
+selfdestruct
+splash

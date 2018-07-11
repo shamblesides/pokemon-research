@@ -1,0 +1,49 @@
+route 29
+PIDGEY (DAY)
+RATATTA
+SENTRET (DAY)
+HOOTHOOT (NIGHT)
+
+route 46
+GEODUDE (DAY)
+SPEAROW (DAY)
+JIGGLYPUFF
+
+route 30
+CATERPIE (GOLD) (DAY)
+METAPOD (GOLD (DAY)
+WEEDLE (SILVER) (DAY)
+KAKUNA (SILVER) (DAY)
+LEDYBA (SILVER) (MORNING ONLY)
+SPINARAK (GOLD) (NIGHT)
+
+route 31
+BELLSPROUT
+
+dark cave
+ZUBAT
+GEODUDE (all times)
+DUNSPARCE (good luck)
+
+bellsprout tower
+GASTLY (NIGHT)
+
+route 32
+EKANS (SILVER)
+MAREEP
+HOPPIP (DAY)
+WOOPER (NIGHT; MORNING UNLIKELY)
+
+ruins of alph
+UNOWN
+
+union cave
+SANDSHREW (GOLD)
+ONIX (bottom floor is better)
+
+route 33
+[nothing new]
+
+slowpoke well
+SLOWPOKE
+

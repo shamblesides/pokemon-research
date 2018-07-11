@@ -1,0 +1,42 @@
+//palette
+CHARMANDER
+SQUIRTLE
+BULBASAUR
+
+//route 2
+PIDGEY
+RATTATTA
+
+//vidian city side route
+NIDORAN GIRL
+NIDORAN BOY
+SPEAROW
+
+//viridian forest
+(r)WEEDLE/KAKUNA
+(b)CATERPIE/METAPOD
+PIKACHU
+
+//route 3 (before mt. moon)
+JIGGLYPUFF
+MAGIKARP (YOU KNOW YOU WANT ONE)
+
+//mt. moon
+// note: go to lower floors to find non-zubat
+ZUBAT
+GEODUDE
+PARAS
+CLEFAIRY (YEAH RIGHT)
+
+//route 4 (after mt. moon)
+(r)EKANS
+(b)SANDSHREW
+
+//route 24 (cerulean warf)
+(r)ODDISH
+(b)BELLSPROUT
+ABRA
+
+//route 25
+(r)CATERPIE/METAPOD (WEIRD LEVELS, KINDA RARE)
+(b)WEEDLE/KAKUNA (WEIRD LEVELS, KINDA RARE)
